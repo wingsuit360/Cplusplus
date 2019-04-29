@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1518127244 source:c:\users\sneezy\desktop\inf lab\2 курс\lk\cp\main.cpp
+	<fstream>
+	<cmath>
+	<sstream>
+	<vector>
+	"mmatrix.h"
+
+1518112871 c:\users\sneezy\desktop\inf lab\2 курс\lk\cp\mmatrix.h
+	<iostream>
+
+1518112734 source:c:\users\sneezy\desktop\inf lab\2 курс\lk\cp\mmatrix.cpp
+	"mmatrix.h"
+
